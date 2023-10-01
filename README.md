@@ -40,10 +40,10 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 > $$roll_religion - Rolls religion check  
 > $$roll_animal_handling - Rolls animal handling check  
 > $$roll_insight - Rolls insight check  
-> $$roll_medicine - Rolls medicine check
+> $$roll_medicine - Rolls medicine check  
 > Wisdom  
 > $$roll_perception - Rolls perception check  
-> $$roll_survival - Rolls survival check
+> $$roll_survival - Rolls survival check  
 > Charisma  
 > $$roll_deception - Rolls deception check  
 > $$roll_intimidation - Rolls intimidation check  
@@ -52,4 +52,4 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 
 ## Additional features
 * Lollipop croaks. 1% chance to croak between words, 10% chance to croak at the end of a message.
-* When somebody types 99! in chat, Lollipop references tv-show Brooklyn 99, because she simply can't resist.
+* When somebody types "99!" in chat, Lollipop references tv-show Brooklyn 99, because she simply can't resist.
