@@ -28,12 +28,12 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 ### Skill checks
 > Strength
 > $$roll_athletics - Rolls athletics check
-> <br>
+> <br><br>
 > Dexterity  
 > $$roll_acrobatics - Rolls acrobatics check  
 > $$roll_sleight_of_hand - Rolls sleight of hand check  
 > $$roll_stealth - Rolls stealth check
-> <br>
+> <br><br>
 > Intelligence  
 > $$roll_arcana - Rolls arcana check  
 > $$roll_history - Rolls history check  
@@ -43,11 +43,11 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 > $$roll_animal_handling - Rolls animal handling check  
 > $$roll_insight - Rolls insight check  
 > $$roll_medicine - Rolls medicine check
-> <br>
+> <br><br>
 > Wisdom  
 > $$roll_perception - Rolls perception check  
 > $$roll_survival - Rolls survival check
-> <br>
+> <br><br>
 > Charisma  
 > $$roll_deception - Rolls deception check  
 > $$roll_intimidation - Rolls intimidation check  
