@@ -16,28 +16,31 @@ Once you added Lollipop to your server you can start using commands: <br>
 > $$hello - Lollipop says hi.
 > $$introduce - Lollipop makes an introduction of self.
 > $$pick_winner - Picks the Winner of the Day out of members on a server(including self). Has 40% chance to assign a special power.
-> $$roll_d20
-> $$roll_str
-> $$roll_dex
-> $$roll_con
-> $$roll_int
-> $$roll_wis
-> $$roll_cha
-> $$roll_athletics
-> $$roll_acrobatics
-> $$roll_sleight_of_hand
-> $$roll_stealth
-> $$roll_arcana
-> $$roll_history
-> $$roll_investigation
-> $$roll_nature
-> $$roll_religion
-> $$roll_animal_handling
-> $$roll_insight
-> $$roll_medicine
-> $$roll_perception
-> $$roll_survival
-> $$roll_deception
-> $$roll_intimidation
-> $$roll_performance
-> $$roll_persuasion
+> Rolls ---------------------------------
+> $$roll_d20 - Rolls d20
+> Ability checks ------------------------
+> $$roll_str - Rolls strength check
+> $$roll_dex - Rolls dexterity check
+> $$roll_con - Rolls constitution check
+> $$roll_int - Rolls intelligence check
+> $$roll_wis - Rolls wisdom check
+> $$roll_cha - Rolls charisma check
+> Skill checks ---------------------------
+> $$roll_athletics - Rolls athletics check
+> $$roll_acrobatics - Rolls  check
+> $$roll_sleight_of_hand - Rolls  check
+> $$roll_stealth - Rolls  check
+> $$roll_arcana - Rolls  check
+> $$roll_history - Rolls  check
+> $$roll_investigation - Rolls  check
+> $$roll_nature - Rolls  check
+> $$roll_religion - Rolls  check
+> $$roll_animal_handling - Rolls  check
+> $$roll_insight - Rolls  check
+> $$roll_medicine - Rolls  check
+> $$roll_perception - Rolls  check
+> $$roll_survival - Rolls  check
+> $$roll_deception - Rolls  check
+> $$roll_intimidation - Rolls  check
+> $$roll_performance - Rolls  check
+> $$roll_persuasion - Rolls  check
