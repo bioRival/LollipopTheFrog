@@ -16,22 +16,17 @@ Once you added Lollipop to your server you can start using commands: <br>
 > $$hello - Lollipop says hi.
 > $$introduce - Lollipop makes an introduction of self.
 > $$pick_winner - Picks the Winner of the Day out of members on a server(including self). Has 40% chance to assign a special power.
-
 > $$roll_d20
-
 > $$roll_str
 > $$roll_dex
 > $$roll_con
 > $$roll_int
 > $$roll_wis
 > $$roll_cha
-
 > $$roll_athletics
-
 > $$roll_acrobatics
 > $$roll_sleight_of_hand
 > $$roll_stealth
-
 > $$roll_arcana
 > $$roll_history
 > $$roll_investigation
@@ -40,7 +35,6 @@ Once you added Lollipop to your server you can start using commands: <br>
 > $$roll_animal_handling
 > $$roll_insight
 > $$roll_medicine
-
 > $$roll_perception
 > $$roll_survival
 > $$roll_deception
