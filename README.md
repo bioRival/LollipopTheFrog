@@ -1,6 +1,6 @@
 # Lollipop the Frog
 Simple Discord chat bot. Rolls DnD ability checks for self, picks the Winner of the Day. Is sassy.
-\n\n
+<br><br>
 Based on Lollipop a frog created by Find Familiar spell in DnD Team Trouble compaign.
 
 ## Install
