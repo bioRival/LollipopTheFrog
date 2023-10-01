@@ -55,5 +55,5 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 > $$roll_persuasion - Rolls persuasion check  
 
 ## Additional features
-* Lollipop croaks. 1% chance to croak between words, 10% chance to croak at the end of a message.
+* Lollipop croaks randomly whenever she talks. 1% chance to croak between words, 10% chance to croak at the end of a message.
 * When somebody types "99!" in chat, Lollipop references tv-show Brooklyn 99, because she simply can't resist.
