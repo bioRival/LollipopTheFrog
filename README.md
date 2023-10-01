@@ -26,7 +26,7 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 > $$roll_wis - Rolls wisdom check  
 > $$roll_cha - Rolls charisma check  
 ### Skill checks
-> Strength
+> Strength  
 > $$roll_athletics - Rolls athletics check
 > <br><br>
 > Dexterity  
