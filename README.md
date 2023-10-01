@@ -18,7 +18,7 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 > $$pick_winner - Picks the Winner of the Day out of members on a server(including self). Has 40% chance to assign a special power.  
 ### Rolls
 > $$roll_d20 - Rolls d20
-### Ability rolls 
+### Ability checks/saving-throws 
 > $$roll_str - Rolls strength check  
 > $$roll_dex - Rolls dexterity check  
 > $$roll_con - Rolls constitution check  
@@ -26,22 +26,27 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 > $$roll_wis - Rolls wisdom check  
 > $$roll_cha - Rolls charisma check  
 ### Skill checks
-> $$roll_athletics - Rolls athletics check  
-> $$roll_acrobatics - Rolls  check  
-> $$roll_sleight_of_hand - Rolls  check  
-> $$roll_stealth - Rolls  check  
-> $$roll_arcana - Rolls  check  
-> $$roll_history - Rolls  check  
-> $$roll_investigation - Rolls  check  
-> $$roll_nature - Rolls  check  
-> $$roll_religion - Rolls  check  
-> $$roll_animal_handling - Rolls  check  
-> $$roll_insight - Rolls  check  
-> $$roll_medicine - Rolls  check  
-> $$roll_perception - Rolls  check  
-> $$roll_survival - Rolls  check  
-> $$roll_deception - Rolls  check  
-> $$roll_intimidation - Rolls  check  
-> $$roll_performance - Rolls  check  
-> $$roll_persuasion - Rolls  check  
+> Strength  
+> $$roll_athletics - Rolls athletics check
+> Dexterity  
+> $$roll_acrobatics - Rolls acrobatics check  
+> $$roll_sleight_of_hand - Rolls sleight of hand check  
+> $$roll_stealth - Rolls stealth check
+> Intelligence
+> $$roll_arcana - Rolls arcana check  
+> $$roll_history - Rolls history check  
+> $$roll_investigation - Rolls investigation check  
+> $$roll_nature - Rolls nature check  
+> $$roll_religion - Rolls religion check  
+> $$roll_animal_handling - Rolls animal handling check  
+> $$roll_insight - Rolls insight check  
+> $$roll_medicine - Rolls medicine check
+> Wisdom  
+> $$roll_perception - Rolls perception check  
+> $$roll_survival - Rolls survival check
+> Charisma  
+> $$roll_deception - Rolls deception check  
+> $$roll_intimidation - Rolls intimidation check  
+> $$roll_performance - Rolls performance check  
+> $$roll_persuasion - Rolls persuasion check  
   
