@@ -122,7 +122,7 @@ class LollipopFrog(Lollipop):
             'Cool. Cool cool cool cool cool cool cool, \n'
             'no doubt no doubt no doubt no doubt.',
         ]
-        return random.choice(self.frog_filter(brooklyn_99_quotes))
+        return self.frog_filter(random.choice(brooklyn_99_quotes))
 
     def say_hi(self, human_name="you"):
         human_name = human_name.capitalize()

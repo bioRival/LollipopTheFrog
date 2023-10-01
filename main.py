@@ -124,7 +124,7 @@ async def winner_of_the_day(ctx):
         ])))
         time.sleep(3)
 
-    if random.randint(1, 100) <= 40:
+    if random.randint(1, 100) <= 100:
         await ctx.send(lollipop.frog_filter(f"And your special power is..."))
         time.sleep(3)
         await ctx.send(lollipop.pick_power())
@@ -173,7 +173,7 @@ async def roll_acrobatics(ctx):
     await ctx.send(lollipop.roll20(modifier=lollipop.acrobatics))
 
 
-@bot.command(name='roll_sleight_of_hand', help="Rolls sleight_of_hand check")
+@bot.command(name='roll_sleight_of_hand', help="Rolls sleight of hand check")
 async def roll_sleight_of_hand(ctx):
     await ctx.send(lollipop.roll20(modifier=lollipop.sleight_of_hand))
 
@@ -208,7 +208,7 @@ async def roll_religion(ctx):
     await ctx.send(lollipop.roll20(modifier=lollipop.religion))
 
 
-@bot.command(name='roll_animal_handling', help="Rolls animal_handling check")
+@bot.command(name='roll_animal_handling', help="Rolls animal handling check")
 async def roll_animal_handling(ctx):
     await ctx.send(lollipop.roll20(modifier=lollipop.animal_handling))
 
