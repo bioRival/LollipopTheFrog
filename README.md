@@ -15,7 +15,15 @@ Once you added Lollipop to your server you can start using **commands**: <br>
 > $$help - Shows list of commands  
 > $$hello - Lollipop says hi.  
 > $$introduce - Lollipop makes an introduction of self.  
-> $$pick_winner - Picks the Winner of the Day out of members on a server(including self). Has 40% chance to assign a special power.  
+> $$pick_winner - Picks the Winner of the Day out of members on a server(including self). Has 40% chance to assign a special power:
+> * Swole Doge Spirit
+> * Super Sonic
+> * Bulletproof
+> * Aether Lenses
+> * Balls of Steel
+> * Blessing of the Obama
+> * Silenced, But Whole
+> * Lucky Multiverse Jumper
 ### Rolls
 > $$roll_d20 - Rolls d20
 ### Ability checks/saving-throws 
