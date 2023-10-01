@@ -124,7 +124,7 @@ async def winner_of_the_day(ctx):
         ])))
         time.sleep(3)
 
-    if random.randint(1, 100) <= 100:
+    if random.randint(1, 100) <= 40:
         await ctx.send(lollipop.frog_filter(f"And your special power is..."))
         time.sleep(3)
         await ctx.send(lollipop.pick_power())
