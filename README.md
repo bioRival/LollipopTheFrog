@@ -1,11 +1,11 @@
 # Lollipop the Frog
 Simple Discord chat bot. Rolls DnD ability checks for self, picks the Winner of the Day. Is sassy.
 <br><br>
-Based on Lollipop a frog created by Find Familiar spell in DnD Team Trouble compaign.
+Based on Lollipop a frog created by Find Familiar spell in DnD Team Trouble campaign.
 
 ## Install
 Use IDA, preferably PyCharm or VSCode. <br>
-Have Python interpeter 3.11 or higher. <br>
+Have Python interpreter 3.11 or higher. <br>
 Create bot account following [this official guide](https://discordpy.readthedocs.io/en/stable/discord.html) :  <br>
 Clone the project. Add secrets.py to main folder next to main.py and create a variable BOT_TOKEN with your bot's token as a string. <br>
 Now you are ready to go!
