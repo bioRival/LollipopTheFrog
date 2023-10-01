@@ -12,13 +12,13 @@ Now you are ready to go!
 
 ## How to Use
 Once you added Lollipop to your server you can start using commands: <br>
-> $$help - Shows list of commands
-> $$hello - Lollipop says hi.
-> $$introduce - Lollipop makes an introduction of self.
-> $$pick_winner - Picks the Winner of the Day out of members on a server(including self). Has 40% chance to assign a special power.
-> Rolls ---------------------------------
-> $$roll_d20 - Rolls d20
-> Ability checks ------------------------
+> $$help - Shows list of commands  
+> $$hello - Lollipop says hi.  
+> $$introduce - Lollipop makes an introduction of self.  
+> $$pick_winner - Picks the Winner of the Day out of members on a server(including self). Has 40% chance to assign a special power.  
+> Rolls ---------------------------------  
+> $$roll_d20 - Rolls d20  
+> Ability checks ------------------------  
 > $$roll_str - Rolls strength check
 > $$roll_dex - Rolls dexterity check
 > $$roll_con - Rolls constitution check
